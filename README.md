@@ -1,1 +1,1 @@
-Repository of Config files for Logstash
+Repository of Config files for Logstash and Kibana
